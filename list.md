@@ -5,6 +5,7 @@
 - farcry
 - battlefield
 - mafia3 
+-new
 
 ## games
 - cricket
